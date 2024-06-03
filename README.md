@@ -1,1 +1,1 @@
-                                                   Calorie-Burnt-Prediction-using-Machine-Learning-with-Python
+                Calorie-Burnt-Prediction-using-Machine-Learning-with-Python
